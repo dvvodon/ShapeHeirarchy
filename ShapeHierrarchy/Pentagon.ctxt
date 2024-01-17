@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pentagon
+comment1.params=side\ color\ filled
+comment1.target=Pentagon(double,\ java.lang.String,\ boolean)
+comment2.params=side
+comment2.target=void\ setSide(double)
+comment3.params=
+comment3.target=double\ getSide()
+comment4.params=
+comment4.target=double\ calculateArea()
+numComments=5
